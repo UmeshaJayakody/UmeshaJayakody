@@ -7,10 +7,4 @@ Welcome to my GitHub! I'm a student in the Faculty of Engineering, Department of
 -  Studied at Ananda college.
 -  Languages: Java, Python, C++, C, CSS, HTML, MySQL.
 
-## Get in Touch
-- [LinkedIn](UmeshaJayakody)
-- [Twitter](UmeshaJayakody)
-- [Email](Umeshachamodjayakody@gmail.com)
-
-
 Feel free to check out my repositories and connect with me!
