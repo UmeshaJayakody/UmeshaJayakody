@@ -5,6 +5,6 @@ Welcome to my GitHub! I'm a student in the Faculty of Engineering, Department of
 ## About Me
 -  Faculty of Engineering student specializing in Computer Science and Engineering at the University of Moratuwa.
 -  Studied at Ananda college.
--  Languages: Java, Python, C++, C, CSS, HTML, MySQL.
+-  Languages: Java, Python, C++, C, CSS, HTML, MySQL, Javascript.
 
 Feel free to check out my repositories and connect with me!
