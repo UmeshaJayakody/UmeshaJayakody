@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umesha Jayakody</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+I+am+Umesha+Jayakody.;Undergraduate+at+University+of+Moratuwa.;Department+of+Computer+Science+and+Engineering." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+I+am+Umesha+Jayakody.;Undergraduate+at+University+of+Moratuwa.;Faculty+of+Engineering.;Department+of+Computer+Science+and+Engineering." alt="Typing SVG" />
 </p>
 
 ---
