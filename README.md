@@ -1,8 +1,7 @@
 # Umesha Jayakody
---------------------------------------------------------------------------------
-Software Engineering Undergraduate | University of Moratuwa
-Computer Science and Engineering (2023 - Present)
---------------------------------------------------------------------------------
+
+Faculty of Engineering University of Moratuwa Department of Computer Science and Engineering (2023 - Present)
+
 
 ## About Me
 I am a Faculty of Engineering student specializing in Computer Science and Engineering at the University of Moratuwa and an alumnus of Ananda College. I am passionate about building innovative solutions, exploring cutting-edge technologies, and constantly growing as a developer and problem-solver.
