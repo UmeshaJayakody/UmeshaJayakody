@@ -23,7 +23,7 @@ I am a Faculty of Engineering student specializing in Computer Science and Engin
 
 ## Education
 
-- BSc (Hons) in Computer Science & Engineering | University of Moratuwa (2023 - 2027)
+- BSc (Hons) in Engineering |Department of Computer Science and Engineering | University of Moratuwa (2023 - 2027)
 - GCE Advanced Level (Physical Science) | Ananda College (2019 - 2022) - 3 A's
 - GCE Ordinary Level | Thurstan College (2016 - 2018) - 9 A's
 
